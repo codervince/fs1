@@ -1,6 +1,7 @@
-.*pyc
+*.pyc
 .idea
 .DS_Store
 venv
 .json
 systemsdata.py
+readme.idea

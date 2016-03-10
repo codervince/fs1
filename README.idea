@@ -10,7 +10,7 @@ Settings
 * `FLATSTATS_LOGIN = '<username>'` - flatstats.co.uk username
 
 * `FLATSTATS_PASSWORD = '<password>'` - flatstats.co.uk password
-    
+
 * `FLATSTATS_DRIVER = 'Firefox'` - Selenium webdriver to use (http://selenium-python.readthedocs.org/api.html). Available values are:
 
     - Firefox
@@ -18,7 +18,7 @@ Settings
     - Ie
     - Opera
     - PhantomJS
-    
+
 Tested on `Firefox` under OSX.
 
 To enable middleware add it to `DOWNLOADER_MIDDLEWARES` section, i.e.:
